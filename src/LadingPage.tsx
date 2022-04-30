@@ -1,3 +1,4 @@
+/* eslint-disable react-hooks/exhaustive-deps */
 import { useEffect, useState } from 'react';
 import { useQuery } from 'react-query';
 import { getRequest } from './common/apiCall';
