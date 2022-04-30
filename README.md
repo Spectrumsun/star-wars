@@ -19,9 +19,9 @@ A simple web application to display starwars data
 
 # To Install
 * Download or clone the repo
-* open terminal inside root directory of cloned folder
-* type npm install to install the all dependencies
-* npm start to run the app 
+* Open terminal inside root directory of cloned folder
+* Type npm install to install the all dependencies
+* `npm start` to run the app 
 
 # LICENSE
 * [MIT](./LICENSE) © [Taiwo Sunday]
