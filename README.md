@@ -4,7 +4,6 @@ A simple web application to display starwars data
 [![Netlify Status](https://api.netlify.com/api/v1/badges/c304c6a5-34dc-4cbc-bc29-e1f7ea49e56e/deploy-status)](https://app.netlify.com/sites/brilliant-bombolone-85a4e5/deploys)
 
 # View App
-    * backend APi   https://back-phone.herokuapp.com/api/v1/
     * Host App      https://sample-star-wars.netlify.app
 
 
