@@ -14,7 +14,6 @@ A simple web application to display starwars data
 
 # Features
    * A user can see a list of all starwars film, people, species, starships and vehicles
-   * A user can search for a phone based on user input text
    * A user can search based on any value 
    * A user can view the search history
 
